@@ -21,7 +21,7 @@
     <PackageReference Include="IdentityModel" Version="3.10.5" />
     <PackageReference Include="Microsoft.Owin.Security" Version="4.0.0" />
     <PackageReference Include="Microsoft.Owin.Security.Jwt" Version="4.0.0" />
-    <PackageReference Include="Microsoft.Owin.Security.OpenIdConnect" Version="4.0.0" />
+    <PackageReference Include="Microsoft.Owin.Security.OpenIdConnect" Version="4.1.1" />
     <PackageReference Include="StyleCop.Analyzers" Version="1.1.0-beta008" PrivateAssets="All" />
     <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="5.4.0" />
     <AdditionalFiles Include="..\stylecop.json" />
